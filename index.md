@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Clash Royale Tournament
+![Screen](https://bsitv.github.io/Clash-Royale-Tournament/screen.png)
 
-You can use the [editor on GitHub](https://github.com/bsitv/Clash-Royale-Tournament/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* 클래시로얄 이모티콘을 실제 생활에서도 사용해보세요!!
+[다운로드](https://bsitv.github.io/Clash-Royale-Tournament/tournament.apk)
+* 이 앱은 BSI TV에서 만들어 졌습니다. 구독해주세요!!! 감사합니다.
+[BSI TV 구독하기](https://www.youtube.com/channel/UCOLzKrg9PnyYlVmjSXGlMcg?sub_confirmation=1 )
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bsitv/Clash-Royale-Tournament/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

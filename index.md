@@ -1,4 +1,5 @@
 ## Clash Royale Tournament
+[![BSI TV](https://img.youtube.com/vi/H3XgxrpuVQU/0.jpg)](https://www.youtube.com/watch?v=H3XgxrpuVQU)
 ![Screen](https://bsitv.github.io/Clash-Royale-Tournament/screen.png)
 
 * 클래시로얄 토너먼트 대진표 앱입니다. 8명의 친구들과 대결을 즐길 수 있습니다.
